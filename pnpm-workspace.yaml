@@ -1,0 +1,13 @@
+minimumReleaseAgeExclude:
+  - '@expo/cli@55.0.32'
+  - '@expo/config-plugins@55.0.10'
+  - '@expo/json-file@10.0.15'
+  - '@expo/metro-config@55.0.23'
+  - '@expo/plist@0.5.4'
+  - '@expo/router-server@55.0.18'
+  - expo-file-system@55.0.22
+  - expo-image@55.0.11
+  - expo-modules-autolinking@55.0.24
+  - expo-router@55.0.16
+  - expo-server@55.0.11
+  - expo@55.0.26
